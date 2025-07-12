@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shubham Rawat
+<h1 align="center">Hi👋, I'm Shubham Rawat
 </h1>
 <h3 align="center">Hello! Welcome to my GitHub. As a data analyst, I love exploring data-driven insights and building meaningful projects. Feel free to browse, collaborate, or connect. Let’s dive into the world of data!
+  <br><br>I have removed all of my projects you'll see an updated version soon!!!
 </h3>
 
 <p align="left"> 
